@@ -15,5 +15,6 @@ Hi! I'm a PhD student in statistics at NTNU in Trondheim, Norway. Here are some 
 📈 Data visualization: 
   - [Various visualization projects](https://github.com/emmaSkarstein/visualization_projects)
   - [TidyTuesday contributions](https://github.com/emmaSkarstein/tidytuesday)
+  - [valgdata](https://github.com/emmaSkarstein/valgdata) | An R-package to make it easier to visualize the results from Norwegian elections.
 
 
